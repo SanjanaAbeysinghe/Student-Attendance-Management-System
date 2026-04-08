@@ -2,6 +2,7 @@
 ## Project Overview
 
 The Student Attendance Management System (SAMS) is a desktop-based application developed to simplify and automate attendance tracking for educational institutions.
+
 This system enables administrators and lecturers to manage students, lecturers, courses, subjects, attendance records, and generate attendance-related reports efficiently.
 
 ## Features
@@ -13,64 +14,30 @@ Role-Based Access (Admin / Lecturer)
 
 
 ### Course Management
-Add New Courses
-
-Update Course Details
-
-Delete Courses
-
-View All Courses
+Add New Courses | Update Course Details | Delete Courses | View All Courses
 
 
 ### Student Management
 
-Register New Students
-
-Update Student Information
-
-Delete Student Records
-
-
-
-Search/View Students
+Register New Students | Update Student Information | Delete Student Records | Search/View Students
 
 ### Lecturer Management
 
-Add Lecturers
-
-Update Lecturer Details
-
-Delete Lecturer Records
-
-
-Assign Subjects
+Add Lecturers | Update Lecturer Details |Delete Lecturer Records | Assign Subjects
 
 
 ### Subject Management
 
-Add Subjects
-
-Update Subjects
-
-Delete Subjects
-
-
-Assign Subjects to Courses
+Add Subjects | Update Subjects | Delete Subjects | Assign Subjects to Courses
 
 
 ###Attendance Management
 
-Mark Attendance per Student
-
-Store Daily Attendance Records
-
-View Attendance History
+Mark Attendance per Student | Store Daily Attendance Records | View Attendance History
 
 ### Attendance Reporting
 
-Generate Attendance Reports
-
-Filter by Student / Subject / Date
+Generate Attendance Reports \ Filter by Student / Subject / Date (Not Implement)
 
 
 ### Technologies Used
@@ -102,9 +69,8 @@ Prerequisites
 
 ### System Requirements
 
-Java JDK 21+ \ MySQL Server
-IntelliJ IDEA / Any Java IDE
-JavaFX SDK
+Java JDK 21+ | MySQL Server
+IntelliJ IDEA | Any Java IDE | JavaFX SDK
 Installation Steps
 Clone the Repository
 git clone https://github.com/your-username/student-attendance-management-system.git
@@ -135,7 +101,9 @@ Run AppInitializer.java
 This project demonstrates understanding of:
 
 Object-Oriented Programming (OOP) | JavaFX UI Development
+
 MySQL Database Integration | JDBC Connectivity
+
 CRUD Operations | Layered Software Architecture
 
 ## Author
