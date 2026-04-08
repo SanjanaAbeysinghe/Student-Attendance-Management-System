@@ -90,7 +90,7 @@ Admin	admin	1234
 Lecturer	lecturer	1234
 📷 Screenshots
 ### Login Page
-![Login Page](Images/AdminAccess-Student.jpeg)
+![Login Page](Image/AdminAccess-Student.jpeg)
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
