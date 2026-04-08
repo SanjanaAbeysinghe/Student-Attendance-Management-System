@@ -128,7 +128,7 @@ Run AppInitializer.java
 ![Login Page](Image/Dashboard.jpeg)
 ![Login Page](Image/AdminAccess-Student.jpeg)
 ![Dashboard](Image/AdminAccess-Attendance.jpeg)
-![Dashboard](Image/LecturerAccess-Student.jpeg)
+![Dashboard](Image/LecturerAccess- Student.jpeg)
 
 ## Learning Outcomes
 
