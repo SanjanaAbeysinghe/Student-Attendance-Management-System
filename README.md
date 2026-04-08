@@ -127,8 +127,8 @@ Run AppInitializer.java
 ![Register Page](Image/RegisterPage.jpeg)
 ![Dashboard](Image/Dashboard.jpeg)
 ![StudentPageA](Image/AdminAccess-Student.jpeg)
-![AttendancePageA](Image/AdminAccess-Attendance.jpeg)
-![StudentPageL](Image/LecturerAccess- Student.jpeg)
+![AttendancePageA](Image/AdminAccesss-Attendance.jpeg)
+![StudentPageL](Image/LecturerAccess-%20Student.jpeg)
 
 ## Learning Outcomes
 
