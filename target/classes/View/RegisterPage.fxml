@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="ancMain" prefHeight="557.0" prefWidth="831.0" style="-fx-background-color: #09637E;" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.RegisterController">
+    <VBox alignment="CENTER" layoutX="150" layoutY="80" prefWidth="300" spacing="20" />
+   <Text fill="#1b1a1af7" layoutX="186.0" layoutY="88.0" style="-fx-fill: #EBF4F6;" text="Student Attendance Management System">
+      <font>
+         <Font name="Arial" size="24.0" />
+      </font>
+   </Text>
+    <Pane layoutX="250.0" layoutY="155.0" prefHeight="320.0" prefWidth="316.0" style="-fx-border-color: #088395; -fx-border-radius: 15;">
+        <children>
+
+            <Text fill="#0d0d0d" layoutX="113.0" layoutY="40.0" style="-fx-fill: white;" text="Welcome">
+                <font>
+                    <Font name="Farah Regular" size="24.0" />
+                </font>
+            </Text>
+
+            <!-- Username -->
+            <TextField fx:id="txtuserName" layoutX="42.0" layoutY="91.0" onAction="#registerUser" prefHeight="40" prefWidth="242.0" promptText="UserName" style="-fx-background-color: #EBF4F6;" />
+
+            <!-- Role -->
+            <TextField fx:id="txtRole" layoutX="42.0" layoutY="147.0" onAction="#registerUser" prefHeight="40" prefWidth="242.0" promptText="Role (admin / lecturer)" style="-fx-background-color: #EBF4F6;" />
+
+            <!-- Password -->
+            <PasswordField fx:id="txtpassword" layoutX="42.0" layoutY="204.0" onAction="#registerUser" prefHeight="40" prefWidth="242.0" promptText="Password" style="-fx-background-color: #EBF4F6;" />
+
+            <!-- Login Button -->
+            <Button fx:id="regisbtn" layoutX="84.0" layoutY="262.0" onAction="#registerUser" prefHeight="33.0" prefWidth="151.0" style="-fx-background-color: #7AB2B2;" text="Register" textFill="#ebf4f6" />
+
+            <Text fill="#0d0d0d" layoutX="133.0" layoutY="72.0" style="-fx-fill: white;" text="Register">
+            <font>
+               <Font name="Farah Regular" size="14.0" />
+            </font>
+         </Text>
+
+        </children>
+    </Pane>
+</AnchorPane>
