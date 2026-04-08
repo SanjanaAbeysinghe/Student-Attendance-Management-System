@@ -71,20 +71,35 @@ Prerequisites
 
 Java JDK 21+ | MySQL Server
 IntelliJ IDEA | Any Java IDE | JavaFX SDK
+
 Installation Steps
+
 Clone the Repository
+
 git clone https://github.com/your-username/student-attendance-management-system.git
+
 Import Database
+
 Open MySQL
+
 Create a new database: | CREATE DATABASE samsdb;
+
 Import provided SQL script.
+
 Configure Database Connection
+
 Update your DB connection file:
+
 private static final String URL = "jdbc:mysql://localhost:3306/samsdb";
+
 private static final String USER = "root";
+
 private static final String PASSWORD = "yourpassword";
+
 Run the Application
+
 Open project in IDE
+
 Run AppInitializer.java
 
 ### Screenshots
