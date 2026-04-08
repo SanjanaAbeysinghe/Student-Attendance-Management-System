@@ -123,12 +123,12 @@ Run AppInitializer.java
 
 ### Screenshots
 
-![Dashboard](Image/LoginPage.jpeg)
-![Login Page](Image/RegisterPage.jpeg)
-![Login Page](Image/Dashboard.jpeg)
-![Login Page](Image/AdminAccess-Student.jpeg)
-![Dashboard](Image/AdminAccess-Attendance.jpeg)
-![Dashboard](Image/LecturerAccess- Student.jpeg)
+![LoginPage](Image/LoginPage.jpeg)
+![Register Page](Image/RegisterPage.jpeg)
+![Dashboard](Image/Dashboard.jpeg)
+![StudentPageA](Image/AdminAccess-Student.jpeg)
+![AttendancePageA](Image/AdminAccess-Attendance.jpeg)
+![StudentPageL](Image/LecturerAccess- Student.jpeg)
 
 ## Learning Outcomes
 
